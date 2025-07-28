@@ -1,0 +1,29 @@
+
+pwd
+
+cd
+
+ls 
+
+mkdir
+
+history
+
+date
+
+ls -a
+
+sudo
+
+touch
+
+cp <Source-Location> <Destination-Location>
+
+mv
+
+mv -rf
+
+rm -rf
+
+rm <filename>
+
